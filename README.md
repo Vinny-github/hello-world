@@ -1,2 +1,3 @@
 # hello-world
-Cerating a hello-world repository
+
+Creating a hello-world repository
